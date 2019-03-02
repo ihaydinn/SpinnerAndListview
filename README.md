@@ -27,7 +27,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     }
 }
 
-/////////////////////////////////////////////////////////////////////////////////
+///////////////////////Custom ListView/////////////////////////////////////////
+
 public class MainActivity extends AppCompatActivity {
  
     String[] mevsim = {"Sonbahar", "Kış", "İlkbahar", "Yaz"};
